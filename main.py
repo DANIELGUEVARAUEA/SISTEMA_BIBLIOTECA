@@ -8,7 +8,7 @@ from servicios.biblioteca_servicio import BibliotecaServicio
 
 def menu():
 
-    print("\n===== BIBLIOTECA DIGITAL =====")
+    print("\n===== BIBLIOTECA DIGITAL DG =====")
 
     print("1. Agregar libro")
     print("2. Quitar libro")
