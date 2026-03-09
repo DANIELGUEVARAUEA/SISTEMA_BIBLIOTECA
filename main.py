@@ -1,7 +1,6 @@
 # ==========================================
 # MAIN
 # Punto de entrada del sistema
-# NO contiene lógica del negocio
 # ==========================================
 
 from servicios.biblioteca_servicio import BibliotecaServicio
